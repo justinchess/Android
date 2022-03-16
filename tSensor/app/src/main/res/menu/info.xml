@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuSelect"
+        android:title="Select" >
+    </item>
+    <item android:id="@+id/menuSelectAll"
+        android:title="Select All" >
+    </item>
+    <item android:id="@+id/menuDeselectAll"
+        android:title="Deselect All" >
+    </item>
+    <item android:id="@+id/menuRemove"
+        android:title="Delete Selection" >
+    </item>
+    <item android:id="@+id/menuUndo"
+        android:title="Undo" >
+    </item>
+</menu>
